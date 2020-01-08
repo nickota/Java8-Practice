@@ -14,8 +14,7 @@ public class S04L04 {
 			public void printAbstract(String inStr){
 				System.out.println(inStr);
 			}
-		}
-		
+		};
 	}
 
 }
